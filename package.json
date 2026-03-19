@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "grunt": "^1.6.1",
-    "grunt-contrib-less": "^3.0.0"
+    "grunt-contrib-less": "^3.0.0",
+    "less": "^4.6.4"
   },
   "devDependencies": {
     "grunt-concurrent": "^3.0.0",
